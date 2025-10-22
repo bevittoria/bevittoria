@@ -16,7 +16,9 @@
 <div align="center"> 
   
 <a href="https://github.com/bevittoria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bevittoria&show_icons=true&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bevittoria&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bevittoria&layout=donut&theme=default&langs_count=10t&hide_border=false"/>
+
 </a> 
 
 </div>
