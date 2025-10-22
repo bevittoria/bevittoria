@@ -12,6 +12,15 @@
 
 ---
 
+### 📚 Academic Work
+- 🎓 **Bachelor’s Thesis:** *Coupled epidemic spreading on complex networks and pathogen evolutionary dynamics*  
+  [Read here](https://thesis.unipd.it/handle/20.500.12608/45475)
+
+- 🎓 **Master’s Thesis:** *A bio-inspired evolutionary approach to model fake news diffusion*  
+  [Read here](https://thesis.unipd.it/handle/20.500.12608/91170)
+
+---
+
 ### 🧮 GitHub Stats 
 <div align="center">  
 
@@ -20,6 +29,7 @@
 </a> 
 
 </div>
+
 ---
 
 ### 🌐 Connect
