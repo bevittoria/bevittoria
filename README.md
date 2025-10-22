@@ -12,6 +12,19 @@
 
 ---
 
+### 🧮 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/vittoriabettio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittoriabettio&show_icons=true&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriabettio&layout=compact&langs_count=10&theme=calm&hide_border=false"/>
+</a>
+
+</div>
+
+---
+
 ### 🛠️ Tools & Languages
 `Julia` • `Python` • `R` • `LaTeX` • `Matplotlib` • `NetworkX`  
 
