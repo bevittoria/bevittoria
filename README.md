@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vittoria Bettio
+# Hi, I'm Vittoria Bettio
 
 🎓 PhD candidate in Physics at the University of Padua  
 🔬 Exploring complexity, dynamics, and information in networks  
