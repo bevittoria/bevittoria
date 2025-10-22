@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Vittoria Bettio
 
-<!--
-**bevittoria/bevittoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD candidate in Physics at the University of Padua  
+🔬 Exploring complexity, dynamics, and information in networks  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎯 Research interests: network science, complex systems, and evolutionary dynamics  
+- 💻 Coding mainly in Julia, R, and Python  
+- 🧬 Passionate about modeling social and biological processes  
+
+---
+
+### 🛠️ Tools & Languages
+`Julia` • `Python` • `R` • `LaTeX` • `Matplotlib` • `NetworkX`  
+
+---
+
+### 🌐 Connect
+📫 [vittoria.bettio@unipd.it](mailto:vittoria.bettio@phd.unipd.it)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vittoria-bettio-ab06001ba/) 
