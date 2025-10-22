@@ -18,5 +18,5 @@
 ---
 
 ### 🌐 Connect
-📫 [vittoria.bettio@unipd.it](mailto:vittoria.bettio@phd.unipd.it)  
+📫 [vittoria.bettio@phd.unipd.it](mailto:vittoria.bettio@phd.unipd.it)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vittoria-bettio-ab06001ba/) 
