@@ -21,8 +21,6 @@
 
 ### 🧮 GitHub Stats 
 <div align="center">  
-
-<a href="https://github.com/bevittoria"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bevittoria&show_icons=true&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bevittoria&layout=donut&langs_count=10&theme=shadow_red&hide_border=false"/> 
 </a> 
 
