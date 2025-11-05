@@ -19,15 +19,6 @@
 
 ---
 
-### 🧮 GitHub Stats 
-<div align="center">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bevittoria&layout=donut&langs_count=10&theme=shadow_red&hide_border=false"/> 
-</a> 
-
-</div>
-
----
-
 ### 🌐 Connect
 📫 [vittoria.bettio@phd.unipd.it](mailto:vittoria.bettio@phd.unipd.it)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vittoria-bettio-ab06001ba/) 
